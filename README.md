@@ -13,6 +13,12 @@ Some facilities available in the SAP are :<br>
 I recently came across **Selenium**. Selenium is an open-source tool that automates web browsers. I wanted to try that out. So this project was meant for practice only.
 <br>
 
+## How To Run
+1. Download the project.
+2. Download Geckodriver and change the path in Action.java file line number 22.
+3. Save the file.
+4. Run Launcher.java
+
 ## Implementation
 In this project, **Java EE, Firefox** and **Selenium** have been used along with **Eclipse** and **Geckodriver**.<br>
 1. In the beginning, a window pops up asking for the user's roll number and password to login.<br>
