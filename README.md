@@ -14,10 +14,12 @@ I recently came across **Selenium**. Selenium is an open-source tool that automa
 <br>
 
 ## How To Run
-1. Download the project.
-2. Download Geckodriver and change the path in Action.java file line number 22.
-3. Save the file.
-4. Run Launcher.java
+1. Download the project. The project is inside the SAP Automation directory.
+2. Download the Drivers & Jars directory.
+3. Add all the JARs to the Build Path Configuartion.
+4. Give the path of Geckodriver in Action.java file line number 22.
+5. Save the file.
+6. Run Launcher.java
 
 ## Implementation
 In this project, **Java EE, Firefox** and **Selenium** have been used along with **Eclipse** and **Geckodriver**.<br>
