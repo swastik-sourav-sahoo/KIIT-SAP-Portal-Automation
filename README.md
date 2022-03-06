@@ -1,4 +1,4 @@
-# KIIT-SAP-Portal-Automation
+# KIIT SAP Portal Automation
 ## Introduction
 KIIT Deemed University provides a [SAP Portal](https://kiitportal.kiituniversity.net/) to its students for all the academics and college related stuffs.<br><br>
 Some facilities available in the SAP are :<br>
